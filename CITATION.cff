@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "IoT–BiLSTM for Sustainable Product Design (Reproducible Code)"
+authors:
+  - family-names: Wang
+    given-names: J.
+  - family-names: Uddin
+    given-names: Islam
+  - family-names: et al.
+version: "1.0.0"
+date-released: 2025-11-06
+license: MIT
+message: "If you use this code, please cite the accompanying manuscript."
